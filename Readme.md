@@ -1,4 +1,4 @@
-Desenvolvido com Pythonv2025.4.0 
+Desenvolvido com Python v2025.4.0 
 
 O programa deve ser rodado utilizando o Visual Studio Code com a extensão de Python instalada.
 Certifique-se de abrir a pasta onde estão os arquivos com Visual Studio Code (Botão direito do mouse, abrir com Code)
