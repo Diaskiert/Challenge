@@ -272,16 +272,12 @@ while ganhou == "":
         print("Escolha uma das opções abaixo:")
         print("I = Iniciar torneio")
         print("A = Adicionar startups")
-        print("R = Regras")
         resposta = str(input(""))
         if resposta == "A" or resposta == "a":
             menu = "Adicionar-startups"
         
         elif resposta == "I" or resposta == "i":
             menu = "iniciar-torneio"
-        
-        elif resposta == "R" or resposta == "r":
-            print("Regras")
 
         #Esta seção está aqui para teste e será comentada no futuro.        
         elif resposta == "T" or resposta == "t":
